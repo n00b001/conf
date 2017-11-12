@@ -1,0 +1,1004 @@
+0111,"BdComm Mbr, Grp2,M=$25/Mtg"
+0112,"BdComm Mbr, Grp3,M=$50/Mtg"
+0114,"BdComm Mbr, Grp5,M$100/Mo"
+0115,"BdComm MbrGrp6,D=@$100/Halfday"
+0116,"Brd Comm Mbr, M=$200/Mtg"
+0118,"BdComm Mbr, Grp7,M=$500/Month"
+0130,Superintendent of Schools
+0140,"Chief, Fire Department"
+0150,Dep Chf of Dept (Fire Dept)
+0170,Assistant Law Librarian
+0180,Law Librarian
+0190,Bookbinder
+0382,Inspector 3
+0390,Chief of Police
+0395,Assistant Chief of Police
+0402,Deputy Chief 3
+0490,Commander 3
+0720,"Member, Board of Supervisors"
+0882,Mayoral Staff II
+0884,Mayoral Staff IV
+0885,Mayoral Staff V
+0886,Mayoral Staff VI
+0887,Mayoral Staff VII
+0889,Mayoral Staff IX
+0890,Mayoral Staff X
+0891,Mayoral Staff XI
+0892,Mayoral Staff XII
+0901,Mayoral Staff XIII
+0902,Mayoral Staff XIV
+0903,Mayoral Staff XV
+0904,Mayoral Staff XVI
+0905,Mayoral Staff XVII
+0922,Manager I
+0923,Manager II
+0931,Manager III
+0932,Manager IV
+0933,Manager V
+0941,Manager VI
+0942,Manager VII
+0943,Manager VIII
+0951,Dep Dir I
+0952,Dep Dir II
+0953,Dep Dir III
+0954,Dep Dir IV
+0955,Dep Dir V
+0961,Dept Head I
+0962,Dept Head II
+0963,Dept Head III
+0964,Dept Head IV
+0965,Dept Head V
+1002,IS Operator-Journey
+1003,IS Operator-Senior
+1004,IS Operator-Analyst
+1011,IS Technician Assistant
+1012,IS Technical-Journey
+1013,IS Technician-Senior
+1014,IS Technician-Supervisor
+1021,IS Administrator 1
+1022,IS Administrator 2
+1023,IS Administrator 3
+1024,IS Administrator-Supervisor
+1031,IS Trainer-Assistant
+1032,IS Trainer-Journey
+1033,IS Trainer-Senior
+1041,IS Engineer-Assistant
+1042,IS Engineer-Journey
+1043,IS Engineer-Senior
+1044,IS Engineer-Principal
+1051,IS Business Analyst-Assistant
+1052,IS Business Analyst
+1053,IS Business Analyst-Senior
+1054,IS Business Analyst-Principal
+1061,IS Program Analyst-Assistant
+1062,IS Programmer Analyst
+1063,IS Programmer Analyst-Senior
+1064,IS Prg Analyst-Principal
+1070,IS Project Director
+1071,IS Manager
+1117,"Dep Dir for Investments, Ret"
+1130,Youth Comm Advisor
+1161,"Ex Asst to Admin, SFGH"
+1164,"Adm, SFGH Medical Center"
+1190,Mayor
+1202,Personnel Clerk
+1203,Personnel Technician
+1204,Senior Personnel Clerk
+1209,Benefits Technician
+1210,Benefits Analyst
+1218,Payroll Supervisor
+1220,Payroll Clerk
+1222,Sr Payroll & Personnel Clerk
+1224,Pr Payroll & Personnel Clerk
+1226,Chf Payroll & Personnel Clerk
+1227,Testing Technician
+1231,"Assistant Manager, EEO"
+1232,Training Officer
+1233,EEO Programs Specialist
+1237,Training Coordinator
+1241,Personnel Analyst
+1244,Senior Personnel Analyst
+1246,Principal Personnel Analyst
+1280,Employee Relations Representat
+1281,Senior Emp Relations Repres
+1282,"Manager,Employee Relations Div"
+1283,Dir Emp Relations Div
+1293,Human Resources Director
+1310,Public Relations Assistant
+1312,Public Information Officer
+1314,Public Relations Officer
+1324,Customer Service Agent
+1326,Customer Service Agent Supv
+1360,Special Assistant 1
+1362,Special Assistant 3
+1365,Special Assistant 6
+1367,Special Assistant 8
+1371,Special Assistant 12
+1402,Junior Clerk
+1403,Elections Clerk
+1404,Clerk
+1406,Senior Clerk
+1408,Principal Clerk
+1410,Chief Clerk
+1422,Junior Clerk Typist
+1424,Clerk Typist
+1426,Senior Clerk Typist
+1428,Unit Clerk
+1429,Nurses Staffing Assistant
+1430,Transcriber Typist
+1431,Senior Unit Clerk
+1432,Senior Transcriber Typist
+1434,Shelter Service Representative
+1435,Shelter Officer Supervisor
+1436,Braillist
+1437,Shelter Office Asst Supv
+1440,Medical Transcriber Typist
+1441,Sr Medical Transcriber Typist
+1444,Secretary 1
+1446,Secretary 2
+1450,Executive Secretary 1
+1452,Executive Secretary 2
+1454,Executive Secretary 3
+1458,Legal Secretary 1
+1460,Legal Secretary 2
+1466,Meter Reader
+1468,Water Services Clerk
+1471,Elections Worker
+1474,Claims Process Clerk
+1478,Senior Water Services Clerk
+1480,Principal Water Services Clerk
+1492,"Asst Clk, Board of Supervisors"
+1512,Cfdntal Sctry&Ex Asst PublDfdr
+1518,Confidential Sctry to Assessor
+1520,Cfdntal Sctry to Distric Atty
+1522,Cfdntal Sctry to City Atty
+1543,"Secretary, Comm on the Environ"
+1544,"Secretary, Library Commission"
+1548,"Sctry, Human Svcs. Commission"
+1549,"Sctry, Juv Probation Comm"
+1551,"Secretary, Health Commission"
+1555,"Sctry, Bldg Inspection Comm"
+1574,Ex Asst to the Controller
+1630,Account Clerk
+1632,Senior Account Clerk
+1634,Principal Account Clerk
+1635,Health Care Billing Clerk 1
+1636,Health Care Billing Clerk 2
+1637,Patient Accounts Clerk
+1649,Accountant Intern
+1650,Accountant I
+1652,Accountant II
+1654,Accountant III
+1657,Accountant IV
+1662,Patient Accounts Asst Sprv
+2588,Health Worker 4
+1663,Patient Accounts Supervisor
+1664,Patient Accounts Manager
+1670,Financial Systems Supervisor
+1684,Auditor II
+1686,Auditor III
+1704,Communications Dispatcher 1
+1705,Communications Dispatcher 2
+1706,Telephone Operator
+1708,Senior Telephone Operator
+1721,Senior Data Entry Operator
+1750,Microphoto/Imaging Technician
+1752,Sr. Microphoto/Imaging Tech.
+1760,Offset Machine Operator
+1762,Senior Offset Machine Operator
+1764,Mail & Reproduction Svc Sprv
+1766,Media Production Tech
+1767,Media Programming Spec
+1769,Media Production Supv
+1770,Photographer
+1771,Media Production Specialist
+1773,Media Training Specialist
+1774,Head Photographer
+1777,Media/Security Sys Spec
+1781,Media/Security Syst Supv
+1802,Research Assistant
+1803,Performance Analyst I
+1804,Statistician
+1805,Performance Analyst II
+1806,Senior Statistician
+1812,Assistant Retirement Analyst
+1813,Senior Benefits Analyst
+1814,Benefits Supervisor
+1820,Junior Administrative Analyst
+1822,Administrative Analyst
+1823,Senior Administrative Analyst
+1824,Pr Administrative Analyst
+1825,Prnpl Admin Analyst II
+1827,Administrative Services Mgr
+1835,Legislative Assistant
+1839,Water Conservation Admin
+1840,Junior Management Assistant
+1842,Management Assistant
+1843,"Ex Dir, SE Com Fac Comm"
+1844,Senior Management Assistant
+1849,"Prog Mgr, Bus & Econ Develop"
+1867,Auditor I
+1920,Inventory Clerk
+1922,Senior Inventory Clerk
+1924,Materials/Supplies Supervisor
+1926,Sr Materials & Supplies Sprv
+1929,Parts Storekeeper
+1930,Warehouse Worker
+1931,Senior Parts Storekeeper
+1932,Assistant Storekeeper
+1934,Storekeeper
+1935,Principal Parts Storekeeper
+1936,Senior Storekeeper
+1937,Supervising Parts Storekeeper
+1938,Stores & Equip Asst Sprv
+1942,Asst Materials Coordinator
+1944,Materials Coordinator
+1950,Assistant Purchaser
+1952,Purchaser
+1956,Senior Purchaser
+1958,Supervising Purchaser
+2105,Patient Svcs Finance Tech
+2106,Med Staff Svcs Dept Spc
+2107,Med Staff Svcs Dept Anl
+2110,Medical Records Clerk
+2112,Medical Records Technician
+2114,Medical Records Tech Sprv
+2119,Health Care Analyst
+2145,Hospital Assoc Administrator
+2202,Dental Aide
+2204,Dental Hygienist
+2210,Dentist
+2218,Physician Assistant
+2230,Physician Specialist
+2232,Senior Physician Specialist
+2233,Supervising Physician Spec
+2235,"Medical Dir, Dept of Health"
+2246,Asst Dir of Clinical Svcs 1
+2248,Asst Dir Clinical Svcs 2
+2273,Post M.D. 1
+2275,Post M.D. 2
+2277,Post M.D. 3
+2279,Post M.D. 4
+2281,Post M.D. 5
+2283,Post M.D. 6
+2292,Shelter Veterinarian
+2302,Nursing Assistant
+2303,Patient Care Assistant
+2305,Psychiatric Technician
+2306,Senior Psychiatric Orderly
+2310,Surgical Procedures Technician
+2312,Licensed Vocational Nurse
+2314,Public Health Team Leader
+2320,Registered Nurse
+2322,Nurse Manager
+2323,Clinical Nurse Specialist
+2324,Nursing Supervisor
+2325,Nurse Midwife
+2326,Nursing Supervisor Psychiatric
+2328,Nurse Practitioner
+2330,Anesthetist
+2340,Operating Room Nurse
+2390,Central Processing & Dist Tech
+2392,Sr Cent Proc & Dist Tech
+2402,Laboratory Helper
+2403,Forensic Laboratory Technician
+2406,Pharmacy Helper
+2408,Senior Pharmacy Helper
+2409,Pharmacy Technician
+2416,Bacteriological Lab Assistant
+2424,X-Ray Laboratory Aide
+2430,Medical Evaluations Assistant
+2436,Electroencephalograph Tech 1
+2440,Vet Laboratory Technologist
+2450,Pharmacist
+2453,Supervising Pharmacist
+2454,Clinical Pharmacist
+2456,Asst Forensic Toxicologist 1
+2458,Forensic Toxicologist
+2462,Microbiologist
+2464,Senior Microbiologist
+2466,Chief Microbiologist
+2467,Diagnostic Imaging Tech I
+2468,Diagnostic Imaging Tech II
+2469,Diagnostic Imaging Tech III
+2470,Diagnostic Imaging Tech IV
+2481,Water QualityTech I/II
+2482,Water Quality Tech III
+2483,Biologist I/II
+2484,Biologist III
+2485,Supv Biologist
+2486,Chemist I/II
+2487,Chemist III
+2488,Supv Chemist
+2489,Lab Svcs Mgr
+2496,Radiologic Tech Sprv
+2514,Orthopedic Technician 1
+2515,Orthopedic Technician 2
+2520,Morgue Attendant
+2522,Senior Morgue Attendant
+2523,Forensic Autopsy Technician
+2533,Emergency Med Svcs Agency Spec
+2536,Respiratory Care Practitioner
+2537,Respiratory Care Prctnr 2
+2538,Audiometrist
+2540,Audiologist
+2542,Speech Pathologist
+2548,Occupational Therapist
+2550,Senior Occupational Therapist
+2551,Mental Hlth Treatment Spec
+2552,"Dir of Act, Therapy & Vol Svcs"
+2554,Therapy Aide
+2555,Physical Therapist Assistant
+2556,Physical Therapist
+2558,Senior Physical Therapist
+2561,Optometrist
+2565,Acupuncturist
+2566,Rehabilitation Counselor
+2574,Clinical Psychologist
+2575,Research Psychologist
+2576,Sprv Clincal Psychologist
+2577,Med Examiner's Investigator I
+2578,Med Examiner's Investigator II
+2579,Med Examiner's InvestigatorIII
+2583,Home Health Aide
+2585,Health Worker 1
+2586,Health Worker 2
+2587,Health Worker 3
+2589,Health Program Coordinator 1
+2591,Health Program Coordinator 2
+2593,Health Program Coordinator 3
+2594,Employee Assistance Counselor
+2595,Sr Employee Asst Counselor
+2598,Asst Med Examiner
+2604,Food Service Worker
+2606,Senior Food Service Worker
+2608,Supply Room Attendant
+2618,Food Service Supervisor
+2619,Senior Food Service Supervisor
+2620,Food Service Mgr Administrator
+2622,Dietetic Technician
+2624,Dietitian
+2626,Chief Dietitian
+2650,Assistant Cook
+2652,Baker
+2654,Cook
+2656,Chef
+2706,Housekeeper/Food Service Clnr
+2708,Custodian
+2716,Custodial Assistant Supervisor
+2718,Custodial Supervisor
+2719,Janitorial Svcs Asst Sprv
+2720,Janitorial Services Supervisor
+2736,Porter
+2738,Porter Assistant Supervisor
+2740,Porter Supervisor 1
+2770,Senior Laundry Worker
+2772,Sewing Technician
+2785,Asst General Services Manager
+2786,General Services Manager
+2802,Epidemiologist 1
+2803,Epidemiologist 2
+2804,Epidemiologist 3
+2806,Disease Control Investigator
+2808,Sr Disease Control Invstgtor
+2818,Health Program Planner
+2819,Assistant Health Educator
+2820,Senior Health Program Planner
+2822,Health Educator
+2825,Senior Health Educator
+2830,Public Health Nurse
+2846,Nutritionist
+2903,Eligibility Worker
+2904,Human Services Technician
+2905,Senior Eligibility Worker
+2907,Eligibility Worker Supervisor
+2908,Hospital Eligiblity Worker
+2909,Hospital Elig Wrk Supervisor
+2910,Social Worker
+2912,Senior Social Worker
+2913,Program Specialist
+2914,Social Work Supervisor
+2915,Program Specialist Supervisor
+2916,Social Work Specialist
+2917,Program Support Analyst
+2920,Medical Social Worker
+2922,Senior Medical Social Worker
+2924,Medical Social Work Supervisor
+2930,Psychiatric Social Worker
+2931,"Marriage, Family & Child Cnslr"
+2932,Sr Psychiatric Social Worker
+2933,Conservatorship/Case Mgt Sprv
+2935,"Sr Marriage, Fam & Cld Cnslr"
+2940,Protective Services Worker
+2944,Protective Services Supervisor
+2947,"Hospital Eligibility Mgr, DPH"
+2966,Welfare Fraud Investigator
+2967,Sup Welfare Fraud Investigator
+2975,Citizens Complaint Officer
+2978,Contract Compliance Officer 2
+2982,Rent Board Supervisor
+2991,"Coord, Human Rights Comm"
+2992,Contract Compliance Officer 1
+2996,"Rep, Human Rights Comm"
+2998,"Rep, Comm Status of Women"
+3110,"Secretary, Rec and Park Comm."
+3202,Locker Room Attendant
+3210,Swimming Instr/Pool Lifeguard
+3214,Senior Swimming Instructor
+3232,Marina Assistant Manager
+3238,Dance Instructor
+3256,Photography Instructor
+3260,Crafts Instructor
+3280,Assistant Recreation Director
+3284,Recreation Director
+3287,Asst Recreation Supervisor
+3292,Asst Superintendent Rec
+3302,Admission Attendant
+3310,Stable Attendant
+3320,Animal Keeper
+3321,Senior Animal Keeper
+3342,Zoo Curator
+3370,Animal Care Attendant
+3371,Animal Care Supervisor
+3372,Animal Control Officer
+3374,Volunteer/Outreach Coord
+3375,Animal Health Technician
+3376,Animal Care Asst Supv
+3378,Field Svcs Asst Supv
+3402,Farmer
+3417,Gardener
+3419,Municipal Stadium Groundskpr
+3422,Park Section Supervisor
+3424,Pest Control Specialist
+3426,Forester
+3428,Nursery Specialist
+3430,Chief Nursery Specialist
+3434,Arborist Technician
+3435,Urban Forestry Inspector
+3436,Arborist Technician Supervisor
+3450,Agricultural Inspector
+3486,Watershed Forester
+3518,"Assoc Musm Cnsrvt, AAM"
+3520,Museum Preparator
+3522,Senior Museum Preparator
+3524,Principal Museum Preparator
+3525,Chief Preparator
+3541,Curator 1
+3542,Curator 2
+3544,Curator 3
+3546,Curator 4
+3549,Arts Program Assistant
+3554,Associate Museum Registrar
+3556,Museum Registrar
+3558,Senior Museum Registrar
+3602,Library Page
+3610,Library Assistant
+3616,Library Technical Assistant 1
+3618,Library Technical Assistant 2
+3630,Librarian 1
+3632,Librarian 2
+3633,Librarian 2 - Asian Arts
+3634,Librarian 3
+4119,Performing Arts Center Aide
+4140,Real Property Manager
+4142,Senior Real Property Officer
+4143,Principal Real Property Ofc
+4204,Assessment Srvcs Office Spec
+4205,Sr Asmnt Srvcs Office Spec
+4220,Personal Property Auditor
+4222,Sr Personal Property Auditor
+4224,Pr Personal Property Auditor
+4230,Estate Investigator
+4231,Senior Estate Investigator
+4260,Real Prop Appraiser Trainee
+4261,Real Property Appraiser
+4265,Senior Real Property Appraiser
+4267,Pr Real Property Appraiser
+4290,Assessor
+4306,Collections Officer
+4308,Senior Collections Officer
+4310,Commercial Div Asst Sprv
+4320,Cashier 1
+4321,Cashier 2
+4322,Cashier 3
+4331,Security Analyst
+4334,"Investigator, Tax Collector"
+4335,"Sr Investigator, Tax Collector"
+4366,Collection Supervisor
+4390,Treasurer
+5120,Architectural Administrator
+5130,Sewage Treatment Plant Supt
+5148,Water Operations Analyst
+5149,Supt Water Treatment Fac
+5174,Administrative Engineer
+5177,Safety Officer
+5201,Junior Engineer
+5203,Asst Engr
+5207,Assoc Engineer
+5211,Eng/Arch/Landscape Arch Sr
+5212,Engineer/Architect Principal
+5214,Building Plans Engineer
+5215,Fire Protection Engineer
+5216,Chief Surveyor
+5218,Structural Engineer
+5241,Engineer
+5246,Radio Engineer
+5260,Architectural Assistant 1
+5261,Architectural Assistant 2
+5262,Landscape Architect Assoc 1
+5264,Airport Noise Abatement Spec
+5265,Architectural Associate 1
+5266,Architectural Associate 2
+5268,Architect
+5271,Sr Airport Noise Abatement Spe
+5272,Landscape Architect Assoc 2
+5274,Landscape Architect
+5277,Planner 1
+5278,Planner 2
+5283,Planner 5
+5288,Transit Planner 2
+5289,Transit Planner III
+5290,Transit Planner 4
+5291,Planner 3
+5293,Planner 4
+5298,Planner 3-Environmental Review
+5299,Planner 4-Environmental Review
+5301,"Manager, Traffic Painting Prog"
+5302,Traffic Survey Technician
+5303,"Sprv, Traffic & Street Signs"
+5304,Materials Testing Aide
+5305,Materials Testing Technician
+5306,Traffic Sign Manager
+5310,Survey Assistant I
+5312,Survey Assistant II
+5314,Survey Associate
+5320,Illustrator and Art Designer
+5322,Graphic Artist
+5330,Graphics Supervisor
+5346,Mechanical Eng Associate 1
+5362,Engineering Assistant
+5364,Engineering Associate 1
+5366,Engineering Associate 2
+5380,"StdntDsgnTrain1, Arch/Eng/Plng"
+5381,StdntDsgn Train2/Arch/Eng/Plng
+5382,"StdntDsgnTrain3, Arch/Eng/Plng"
+5408,Coord of Citizen Involvement
+5502,Project Manager 1
+5504,Project Manager 2
+5506,Project Manager 3
+5508,Project Manager 4
+5601,Utility Analyst
+5602,Utility Specialist
+5620,Regulatory Specialist
+5638,Environmental Assistant
+5640,Environmental Spec
+5642,Sr. Environmental Spec
+5644,Principal Environ Specialist
+6108,Environmental Hlth Tech 1
+6110,Environmental Hlth Tech 2
+6115,Wastewater Control Inspector
+6116,Sprv Wastewater Cont Inspector
+6120,Environmental Health Inspector
+6122,Sr Environmental Hlth Insp
+6124,Pr Environmental Hlth Insp
+6130,Safety Analyst
+6137,Assistant Industrial Hygienist
+6138,Industrial Hygienist
+6139,Senior Industrial Hygienist
+6220,"Inspector, Weights & Measures"
+6230,Street Inspector
+6231,Senior Street Inspector
+6232,Street Inspection Supervisor
+6235,Heating/Ventilating Inspector
+6242,Plumbing Inspector
+6244,Chief Plumbing Inspector
+6246,Senior Plumbing Inspector
+6248,Electrical Inspector
+6249,Senior Electrical Inpsector
+6250,Chief Electrical Inspector
+6252,Line Inspector
+6262,Plan Checker
+6266,Senior Plan Checker
+6270,Housing Inspector
+6272,Senior Housing Inspector
+6274,Chief Housing Inspector
+6281,Fire Safety Inspector 2
+6317,Assistant Const Inspector
+6318,Construction Inspector
+6319,Senior Const Inspector
+6331,Building Inspector
+6333,Senior Building Inspector
+6334,Chief Building Inspector
+6335,Disability Access Coordinator
+7108,Heavy Equip Ops Asst Sprv
+7110,Mobile Equipment Asst Sprv
+7120,Bldgs & Grounds Maint Supt
+7126,Mech Shop & Equip Supt
+7132,Telecommunication Supervisor
+7134,Water Const&Main Supt
+7203,Bldg & Grounds Maint Sprv
+7204,Chief Water Service Inspector
+7205,Chief Stationary Engineer
+7208,Heavy Equipment Ops Sprv
+7210,Mobile Equipment Supervisor
+7211,Cement Finisher Supervisor 2
+7213,Plumber Supervisor 1
+7215,General Laborer Supervisor 1
+7216,Electrical Trnst Shop Sprv 1
+7219,Maintenance Scheduler
+7220,Asphalt Finisher Supervisor 1
+7221,Asphalt Plant Supervisor 1
+7223,Cable Machinery Supervisor
+7225,Transit Paint Shop Sprv1
+7226,Carpenter Supervisor 1
+7227,Cement Finisher Supervisor 1
+7228,Automotive Trnst Shop Sprv 1
+7229,Transmission Line Supervisor 1
+7233,Glazier Supervisor 1
+7235,Transit Power Line Sprv1
+7236,Locksmith Supervisor 1
+7238,Electrician Supervisor 1
+7239,Plumber Supervisor 2
+7240,Water Meter Shop Supervisor 1
+7241,Senior Maintenance Controller
+7242,Painter Supervisor 1
+7243,Parking Meter Repairer Sprv 1
+7244,Power Plant Supervisor 1
+7245,"Chf Statnry Eng,WtrTreat Plnt"
+7246,Sewer Repair Supervisor
+7247,Sheet Metal Wrk Supervisor 2
+7248,Steamfitter Supervisor 2
+7249,Automotive Mechanic Sprv 1
+7250,Utility Plumber Supervisor 1
+7251,Track Maint Wrk Sprv 1
+7252,"Chf Stationary Eng, Sew Plant"
+7253,Electrical Trnst Mech Sprv 1
+7254,Automotive Machinist Sprv 1
+7255,Power House Electrician Sprv 1
+7256,Electric Motor Repair Sprv 1
+7257,Communication Line Sprv1
+7258,Maintenance Machinist Sprv 1
+7259,Water & Power Maint Sprv 1
+7262,Maintenance Planner
+7263,Maintenance Manager
+7264,Auto Body & Fender Wrk Sprv 1
+7268,Window Cleaner Supervisor
+7270,Watershed Keeper Supervisor
+7272,Carpenter Supervisor 2
+7273,Communications Line Wrk Sprv 2
+7274,Trnst Power Line Wrk Sprv 2
+7275,Telecommunications Tech Supv
+7276,Electrician Supervisor 2
+7277,City Shops Asst Superintendent
+7278,Painter Supervisor 2
+7279,Power House Electrician Sprv 2
+7281,Street Environ Svcs Oprs Supv
+7282,Street Repair Supervisor 2
+7284,Utility Plumber Supervisor 2
+7285,Transmission Line Wrk Sprv 2
+7286,Wire Rope Cable Maint Sprv
+7287,Sprv Electronic Main Tech
+7305,Metal Fabricator
+7306,Automotive Body & Fender Wrk
+7307,Bricklayer
+7308,Cable Splicer
+7309,Car and Auto Painter
+7311,Cement Mason
+7313,Automotive Machinist
+7315,Auto Machinist Asst Sprv
+7316,Water Service Inspector
+7317,Senior Water Service Inspector
+7318,Electronic Maintenance Tech
+7319,Electric Motor Repairer
+7322,Auto Body&Fender Wrk Asst Sprv
+7324,Beautician
+7325,General Utility Mechanic
+7326,Glazier
+7328,"Operating Engineer, Universal"
+7329,Electr Maint Tech Asst Sprv
+7330,Sr General Utility Mechanic
+7332,Maintenance Machinist
+7333,Apprentice Stationary Engineer
+7334,Stationary Engineer
+7335,Senior Stationary Engineer
+7336,Electr Instrmntn Tech Wtr Poll
+7337,Main Machinist Asst Sprv
+7338,Electrical Line Worker
+7339,"AprntcStatnry Eng,WtrTreatPlnt"
+7340,Maintenance Controller
+7341,Statnry Eng Water Treat Plant
+7342,Locksmith
+7343,"Sr Statnry Eng, Wtr Treat Plnt"
+7344,Carpenter
+7345,Electrician
+7346,Painter
+7347,Plumber
+7348,Steamfitter
+7349,Steamfitter Supervisor I
+7353,Water Meter Repairer
+7355,Truck Driver
+7358,Pattern Maker
+7360,Pipe Welder
+7362,Communications Systems Tech
+7364,Power House Operator
+7365,Senior Power House Operator
+7366,Electronic Control Sys Tech
+7368,Senior Comm Systems Technican
+7370,Rigger
+7371,Electrical Transit System Mech
+7372,"Stationary Eng, Sewage Plant"
+7373,"Sr. Stationary Eng, Sew Plant"
+7375,"Aprntc Statnry Eng, Sew Plant"
+7376,Sheet Metal Worker
+7377,Stage Electrician
+7378,Tile Setter
+7380,"Electrl Trnst Mech, Asst Sprv"
+7381,Automotive Mechanic
+7382,Automotive Mechanic Asst Sprv
+7388,Utility Plumber
+7389,Metalsmith
+7390,Welder
+7392,Window Cleaner
+7393,Soft Floor Coverer
+7395,Ornamental Iron Worker
+7404,Asphalt Finisher
+7408,Assistant Power House Operator
+7410,Automotive Service Worker
+7412,Auto Svc Wrk Asst Sprv
+7416,Book Repairer
+7418,Senior Book Repairer
+7421,Sewer Maintenance Worker
+7424,Dryer Mixer Operator
+7428,Hodcarrier
+7430,Asst Electronic Main Tech
+7432,Electrical Line Helper
+7434,Maintenance Machinist Helper
+7444,Parking Meter Repairer
+7449,Sewer Service Worker
+7450,Shade and Drapery Worker
+7454,Traffic Signal Operator
+7457,Sign Worker
+7458,Switch Repairer
+7470,Watershed Keeper
+7472,Wire Rope Cable Maint Mechanic
+7482,Power Generation Technician 2
+7484,Sr Power Generation Tech
+7488,Power Generation Supervisor
+7501,Environmental Service Worker
+7502,Asphalt Worker
+7510,Lighting Fixture Maint Worker
+7514,General Laborer
+7524,Institution Utility Worker
+7540,Track Maintenance Worker
+8104,Victim & Witness Technician
+8106,Legal Process Clerk
+8107,ASR Office Assistant
+8108,Senior Legal Process Clerk
+8109,Document Examiner Technician
+8110,Recordable Docs Office Spec
+8111,Sr Recordable Docs Office Spec
+8113,Court Clerk
+8116,Legislative Calendar Clerk
+8118,Legislation Clerk
+8121,Fare Inspections Supv/Invest
+8124,Invstgtor Ofc Citizen Cmplnts
+8126,"Sr Investigator, OCC"
+8129,Victim/Witness Investigator 1
+8131,Victim/Witness Investigator 2
+8132,DA Investigative Assist
+8133,Victim/Witness Investigator 3
+8135,Asst Chf Victim/Wit Invstgtor
+8137,Chf Victim/Witness Invstgtor
+8139,Industrial Injury Investigator
+8141,Worker's Compensation Adjuster
+8142,Public Defender's Investigator
+8143,Sr Public Defenders Invstgtor
+8146,District Attry's Investigator
+8147,Sr District Atty Investigator
+8148,Chf District Atty Investigator
+8149,Asst Chf Dist Atty's Invstgtor
+8150,"Pr DistAtty Invstgtor,SpecUnit"
+8151,"Claims Investigator, CA"
+8152,"SrClaimsInvstgtor,Cty Atty Ofc"
+8153,"Pr Clm Invstgtr, City Atty Ofc"
+8158,Child Support Officer II
+8159,Child Support Officer III
+8165,Worker's Comp Supervisor 1
+8167,Parking Hearing Examiner
+8168,Parking Hearing Supervisor
+8169,Legislative Asst City Atty Ofc
+8173,Legal Assistant
+8177,Attorney (Civil/Criminal)
+8181,Assistant Chief Attorney 1
+8182,"Head Atty, Civil & Criminal"
+8183,Assistant Chief Attorney 2
+8184,Chf Atty 2 (Civil & Criminal)
+8190,"Attorney, Tax Collector"
+8193,Chief Atty1 (Civil & Criminal)
+8196,Public Defender
+8197,City Attorney
+8198,District Attorney
+8202,Security Guard
+8204,Institutional Police Officer
+8205,Institutional Police Sergeant
+8207,Bldg & Grounds Patrol Officer
+8208,Park Patrol Officer
+8209,Institutional Police Lieut
+8210,Head Park Patrol Officer
+8213,Police Services Aide
+8214,Parking Control Officer
+8216,Senior Parking Control Officer
+8217,Comm Pol Svcs Aide Supervisor
+8219,Parking Enforcement Admin
+8226,Museum Guard
+8228,Museum Sec Supv
+8234,Fire Alarm Dispatcher
+8236,Chief Fire Alarm Dispatcher
+8238,Police Communications Disp
+8239,Sr Pol Communications Disp
+8240,Pub Safety Communication Coord
+8247,Emergency Planning Coordinator
+8249,Fingerprint Technician 1
+8250,Fingerprint Technician 2
+8251,Fingerprint Technician 3
+8259,Criminalist I
+8260,Criminalist II
+8262,Criminalist III
+8264,Forensic Document Examiner
+8274,Police Cadet
+8300,Sheriff's Cadet
+8302,Deputy Sheriff 1
+8304,Deputy Sheriff
+8306,Senior Deputy Sheriff
+8308,Sheriff's Sergeant
+8310,Sheriff's Lieutenant
+8312,Sheriff's Captain
+8314,Chief Deputy Sheriff
+8315,Assistant Sheriff
+8318,Counselor 2
+8320,"Counselor, Juvenile Hall"
+8321,"Counselor, Log Cabin Ranch"
+8322,"Sr Counselor, Juvenile Hall"
+8324,"Sprv Counselor, Juvenile Court"
+8326,"Asst Dir, Log Cabin Rnch"
+8330,"Director, Log Cabin Ranch"
+8340,"Asst Director, Juvenile Hall"
+8348,Undersheriff
+8350,Sheriff
+8414,"Sprv Prob Ofc, Juv Court"
+8415,"Sr Sprv Prob Ofc, Juv Prob"
+8416,"Director, Probation Services"
+8420,Rehabilitation Svcs Coord
+8434,Sprv Adult Probation Ofc
+8435,"Div Director, Adult Probation"
+8436,Chief Adult Probation Officer
+8438,Chief Deputy Adlt Probation Of
+8444,Deputy Probation Officer
+8446,Court Alternative Specialist 1
+8452,Criminal Justice Specialist 2
+9102,Transit Car Cleaner
+9104,Transit Car Cleaner Asst Sprv
+9110,Fare Collections Receiver
+9116,Sr Fare Collections Receiver
+9117,Pr Fare Collections Receiver
+9118,Transit Revenue Supervisor
+9122,Transit Information Clerk
+9124,Sr Transit Information Clerk
+9126,Transit Traffic Checker
+9128,Senior Transit Traffic Checker
+9131,"Station Agent, Muni Railway"
+9132,Transit Fare Inspector
+9139,Transit Supervisor
+9140,Transit Manager 1
+9141,Transit Manager 2
+9150,Train Controller
+9155,Claims Investigator
+9156,Senior Claims Investigator
+9157,Claims Adjuster
+9160,Transit Operations Specialist
+9163,Transit Operator
+9172,"Manager II, MTA"
+9174,"Manager IV, MTA"
+9175,"Manager I, MTA"
+9177,"Manager III, MTA"
+9179,"Manager V, MTA"
+9180,"Manager VI, MTA"
+9181,"Manager VII, MTA"
+9182,"Manager VIII, MTA"
+9183,"Deputy Dir I, MTA"
+9185,"Chf Opr Ofc, Publ Transp Dept"
+9186,"Gen Mgr, Public Trnsp Dept"
+9187,"Deputy Dir II, MTA"
+9190,"Board Scty, MTA"
+9195,Light Rail Vehicle Equip Eng
+9196,Sr Light Rail Veh Equip Eng
+9197,Signal and Systems Engineer
+9202,Airports Communicatins Disp
+9203,Sr Airport Communications Disp
+9204,Airports Communications Sprv
+9206,Airport Property Specialist 1
+9209,Community Police Services Aide
+9212,Airport Safety Officer
+9220,Airport Operations Supervisor
+9230,Airport Custodial Svcs Sprv
+9232,Airport Mechanical Maint Sprv
+9240,Airport Electrician
+9241,Airport Electrician Supervisor
+9242,Head Airport Electrician
+9247,Airport Emerg Planning Coord
+9251,Public Relations Mgr
+9254,"Asst to Dir, Public Affairs"
+9255,Airport Economic Planner
+9330,Pile Worker
+9331,Piledriver Engine Operator
+9332,Piledriver Supervisor 1
+9342,Ornamental Iron Wrk Sprv 1
+9343,Roofer
+9344,Roofer Supervisor 1
+9345,Sheet Metal Supervisor 1
+9346,Fusion Welder
+9354,Elevator and Crane Technician
+9355,Wharfinger 1
+9356,Wharfinger 2
+9358,Crane Mechanic Supervisor
+9376,"Market Research Spec, Port"
+9377,"Feasibility Analyst, Port"
+9382,Govrnmt/Publ Affairs Mgr
+9386,"Senior Property Manager, Port"
+9393,Maritime Marketing Repr
+9395,"Property Manager, Port"
+9399,Port Director
+9504,Permit and Citation Clerk
+9506,Snr Permit and Citation Clerk
+9508,Prpl Permit and Citation Clerk
+9520,Trans Safety Specialist
+9703,Emp & Training Spec 2
+9704,Employment & Training Spec 3
+9705,Emp & Training Spec 4
+9706,Employment & Training Spec 5
+9708,Employment & Training Spec 6
+9722,Specialist in Aging 2
+9770,Community Development Asst
+9772,Community Development Spec
+9774,Sr. Community Devl Spc 1
+9775,Sr Community Dev Spec 2
+9910,Public Service Trainee
+9914,Public Service Aide-Admin
+9916,Public Svc Aide-Public Works
+9922,PS Aide to Prof
+9924,PS Aide Health Services
+9989,Executive Contract Employee
+AB44,"Cfdntal Chf Atty 2,(Cvl&Crmnl)"
+AC35,Bd/Comm Secretary 3
+AC38,"Assistant Superintendent, Rec"
+AC43,Grants Associate
+H  1,Fire Rescue Paramedic
+H  2,Firefighter
+H  3,Firefighter/Paramedic
+H  4,"Insp, Fire Dept"
+H  6,"Invstgtor,Fire Dept"
+H 10,Incident Support Specialist
+H 20,"Lieutenant, Fire Suppression"
+H 22,"Lieut,Fire Prev"
+H 24,"Lieut,Fire Invstgtn"
+H 28,"Lieut, Division of Training"
+H 30,"Captain, (Fire Department)"
+H 32,"Capt,Fire Prev or Fire Invsgtn"
+H 33,EMS Captain
+H 39,"Captain, Division of Training"
+H 40,"Battlion Chief, Fire Suppressi"
+H 43,EMS Section Chief
+H 50,Asst Chf of Dept (Fire Dept)
+H 51,Assistant Deputy Chief 2
+H 53,Emergency Medical Svcs Chief
+H110,Marine Engineer of Fire Boats
+H120,Pilot of Fire Boats
+P103,Special Nurse
+Q  4,Police Officer 3
+Q 52,Sergeant 3
+Q 62,Lieutenant 3
+Q 63,Director of Forensic Services
+Q 82,Captain 3
+Q 90,Director of Police Psychology
+TEMPM,Temporary Position
+TEMPN,Temporary Position
